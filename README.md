@@ -1,10 +1,10 @@
 # E-learning-Platform
 
-E-Learning Platform-
+## E-Learning Platform-
 
 An online platform designed to deliver courses, quizzes, and learning materials to students. It provides features such as user authentication, course enrollment, progress tracking, and content delivery.
 
-Features
+## Features
 
 User Authentication: Register, log in, and manage user profiles.
 
@@ -16,7 +16,7 @@ Progress Tracking: Track learning progress with reports and completion certifica
 
 Admin Dashboard: Manage users, courses, and content from the admin interface.
 
-Tech Stack
+## Tech Stack
 
 Frontend: React, HTML5, CSS3, JavaScript
 
@@ -26,12 +26,12 @@ Database: MongoDB
 
 Authentication: JSON Web Tokens (JWT)
 
-Features to Implement
+## Features to Implement
 
 Add certificate generation for course completion.
 
 Improve the user interface for mobile responsiveness.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
